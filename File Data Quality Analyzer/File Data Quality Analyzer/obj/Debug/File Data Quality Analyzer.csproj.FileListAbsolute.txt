@@ -1,0 +1,33 @@
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\bin\Debug\File Data Quality Analyzer.exe.config
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\bin\Debug\File Data Quality Analyzer.exe
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\bin\Debug\File Data Quality Analyzer.pdb
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File_Data_Quality_Analyzer.Properties.Resources.resources
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.csproj.GenerateResource.Cache
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.exe
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.pdb
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.csprojResolveAssemblyReference.cache
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File_Data_Quality_Analyzer.Main_Form.resources
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer - 102015\File Data Quality Analyzer\bin\Debug\File Data Quality Analyzer.exe.config
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer - 102015\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.exe
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer - 102015\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.pdb
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer\File Data Quality Analyzer\bin\Debug\File Data Quality Analyzer.exe.config
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer\File Data Quality Analyzer\bin\Debug\File Data Quality Analyzer.exe
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer\File Data Quality Analyzer\bin\Debug\File Data Quality Analyzer.pdb
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.csprojResolveAssemblyReference.cache
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File_Data_Quality_Analyzer.Main_Form.resources
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File_Data_Quality_Analyzer.Properties.Resources.resources
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.csproj.GenerateResource.Cache
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.exe
+C:\Grant\Dropbox\Intelligent Hospitality\Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.pdb
+C:\Grant\Dropbox\7 - Intelligent Hospitality\6 - Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer\File Data Quality Analyzer\bin\Debug\File Data Quality Analyzer.exe.config
+C:\Grant\Dropbox\7 - Intelligent Hospitality\6 - Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.exe
+C:\Grant\Dropbox\7 - Intelligent Hospitality\6 - Dev - File Data Quality Analyzer - 102015\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.pdb
+C:\Users\ganderson\Documents\File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\bin\Debug\File Data Quality Analyzer.exe.config
+C:\Users\ganderson\Documents\File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.exe
+C:\Users\ganderson\Documents\File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.pdb
+C:\Users\ganderson\Documents\File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\bin\Debug\File Data Quality Analyzer.exe
+C:\Users\ganderson\Documents\File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\bin\Debug\File Data Quality Analyzer.pdb
+C:\Users\ganderson\Documents\File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\ganderson\Documents\File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File_Data_Quality_Analyzer.Main_Form.resources
+C:\Users\ganderson\Documents\File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File_Data_Quality_Analyzer.Properties.Resources.resources
+C:\Users\ganderson\Documents\File Data Quality Analyzer\File Data Quality Analyzer\File Data Quality Analyzer\obj\Debug\File Data Quality Analyzer.csproj.GenerateResource.Cache
